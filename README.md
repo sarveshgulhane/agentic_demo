@@ -46,7 +46,7 @@ Final Answer
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/sarveshgulhane/agentic_demo.git
 cd agentic_demo
 ```
 
